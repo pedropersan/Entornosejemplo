@@ -1,1 +1,6 @@
+<<<<<<< HEAD
  otra linea en master
+=======
+Creo archivo en prueba2
+otro texto
+>>>>>>> pruebas2
